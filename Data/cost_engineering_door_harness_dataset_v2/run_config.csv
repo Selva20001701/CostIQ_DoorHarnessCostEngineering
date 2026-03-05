@@ -1,0 +1,2 @@
+default_as_of_month,default_index_name,notes
+2026-12,COPPER,Baseline copper price month for cost runs; override via config/env.

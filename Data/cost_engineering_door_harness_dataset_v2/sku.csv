@@ -1,0 +1,4 @@
+sku_id,sku_name,variant,program,platform,oem_region,start_month,end_month
+DH-BASE,Door Harness - Base,Base,Program_A,C-SUV,NA,2024-01,2026-12
+DH-PREM,Door Harness - Premium,Premium,Program_A,C-SUV,NA,2024-01,2026-12
+DH-EVL,Door Harness - EV-lite,EV-lite,Program_B,EV-Crossover,NA,2024-07,2026-12

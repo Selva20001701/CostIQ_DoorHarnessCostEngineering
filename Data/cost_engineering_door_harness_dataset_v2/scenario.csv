@@ -1,0 +1,7 @@
+scenario_id,scenario_name,copper_delta_pct,labor_delta_pct,purchased_delta_pct,overhead_delta_pct
+1,Baseline,0.0,0.0,0.0,0.0
+2,Copper +10%,0.1,0.0,0.0,0.0
+3,Copper +20%,0.2,0.0,0.0,0.0
+4,Labor +5%,0.0,0.05,0.0,0.0
+5,Connectors +3%,0.0,0.0,0.03,0.0
+6,"Combo (Cu+10, Labor+5, Purch+3)",0.1,0.05,0.03,0.0

@@ -1,0 +1,4 @@
+assumption_id,sku_id,scrap_rate,labor_minutes,labor_rate_per_hour,productivity_factor,overhead_rate,copper_weight_kg,margin_floor
+A-DH-BASE,DH-BASE,0.0422,11.93,24.7,0.989,0.322,1.713,0.15
+A-DH-PREM,DH-PREM,0.0402,13.18,27.62,0.989,0.239,0.907,0.15
+A-DH-EVL,DH-EVL,0.03,10.03,28.64,1.079,0.311,1.706,0.15

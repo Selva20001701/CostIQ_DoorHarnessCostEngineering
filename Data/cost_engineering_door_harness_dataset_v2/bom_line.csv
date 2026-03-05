@@ -1,0 +1,35 @@
+bom_id,sku_id,item_type,item_name,qty,uom,unit_cost
+DH-BASE-NC-1,DH-BASE,non_copper,PVC/XLPE insulation material,0.274,kg,3.7823
+DH-BASE-NC-2,DH-BASE,non_copper,Cloth tape,3.0,each,0.2072
+DH-BASE-NC-3,DH-BASE,non_copper,Corrugated tube sleeve,2.103,meter,0.3676
+DH-BASE-NC-4,DH-BASE,non_copper,Rubber grommet,1.0,each,0.4678
+DH-BASE-NC-5,DH-BASE,non_copper,Heat-shrink tubing,1.0,each,0.3738
+DH-BASE-P-6,DH-BASE,purchased,Connector housing,8.0,each,1.513
+DH-BASE-P-7,DH-BASE,purchased,Terminals,67.0,each,0.0963
+DH-BASE-P-8,DH-BASE,purchased,Seals,22.0,each,0.0548
+DH-BASE-P-9,DH-BASE,purchased,Clips/fasteners,11.0,each,0.0619
+DH-BASE-P-10,DH-BASE,purchased,Wire labels,2.0,each,0.0515
+DH-PREM-NC-1,DH-PREM,non_copper,PVC/XLPE insulation material,0.288,kg,2.521
+DH-PREM-NC-2,DH-PREM,non_copper,Cloth tape,4.0,each,0.1806
+DH-PREM-NC-3,DH-PREM,non_copper,Corrugated tube sleeve,2.494,meter,0.4118
+DH-PREM-NC-4,DH-PREM,non_copper,Rubber grommet,1.0,each,0.5838
+DH-PREM-NC-5,DH-PREM,non_copper,Heat-shrink tubing,3.0,each,0.3882
+DH-PREM-P-6,DH-PREM,purchased,Connector housing,15.0,each,1.4395
+DH-PREM-P-7,DH-PREM,purchased,Terminals,63.0,each,0.1168
+DH-PREM-P-8,DH-PREM,purchased,Seals,22.0,each,0.0346
+DH-PREM-P-9,DH-PREM,purchased,Clips/fasteners,9.0,each,0.1412
+DH-PREM-P-10,DH-PREM,purchased,Wire labels,4.0,each,0.0923
+DH-PREM-P-11,DH-PREM,purchased,Additional connector (premium),2.0,each,1.9776
+DH-PREM-P-12,DH-PREM,purchased,Noise-reduction sleeve,0.341,meter,1.3101
+DH-EVL-NC-1,DH-EVL,non_copper,PVC/XLPE insulation material,0.215,kg,2.4403
+DH-EVL-NC-2,DH-EVL,non_copper,Cloth tape,3.0,each,0.3188
+DH-EVL-NC-3,DH-EVL,non_copper,Corrugated tube sleeve,1.683,meter,0.7415
+DH-EVL-NC-4,DH-EVL,non_copper,Rubber grommet,1.0,each,0.7525
+DH-EVL-NC-5,DH-EVL,non_copper,Heat-shrink tubing,2.0,each,0.4305
+DH-EVL-P-6,DH-EVL,purchased,Connector housing,15.0,each,0.7083
+DH-EVL-P-7,DH-EVL,purchased,Terminals,70.0,each,0.0716
+DH-EVL-P-8,DH-EVL,purchased,Seals,18.0,each,0.0501
+DH-EVL-P-9,DH-EVL,purchased,Clips/fasteners,17.0,each,0.2149
+DH-EVL-P-10,DH-EVL,purchased,Wire labels,2.0,each,0.0529
+DH-EVL-P-11,DH-EVL,purchased,Shielding braid,1.239,meter,1.4403
+DH-EVL-P-12,DH-EVL,purchased,High-temp sleeve,1.274,meter,1.4636
