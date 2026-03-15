@@ -1,0 +1,4 @@
+"sku_id","worst_margin_pct","best_margin_pct","avg_margin_pct","breach_count"
+"DH-BASE","5.22","5.28","5.25","6"
+"DH-PREM","7.44","7.48","7.46","6"
+"DH-EVL","23.03","23.08","23.06","0"
