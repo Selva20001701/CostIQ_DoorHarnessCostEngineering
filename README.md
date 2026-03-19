@@ -221,9 +221,6 @@ costiq-door-harness/
 
 ---
 
-## Resume Bullets
-
-**CostIQ — Tier-1 Door Harness Cost Engineering & Margin Governance Engine**
 
 - Designed a normalized PostgreSQL schema and Python cost engine to compute BOM-level unit cost for a Tier-1 door harness program across 3 SKUs / 34 BOM lines; decomposed unit cost into five discrete buckets — copper commodity exposure, purchased components, direct labor, overhead absorption, and scrap/yield loss — with copper pricing dynamically sourced from a 36-month LME index.
 
