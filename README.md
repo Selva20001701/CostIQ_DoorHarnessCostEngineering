@@ -2,6 +2,13 @@
 
 A modular cost engineering simulation system built for a Tier-1 automotive door harness program. CostIQ computes BOM-level unit cost across 3 SKUs and 34 BOM lines, runs scenario simulations against commodity and labor volatility, and enforces margin-floor governance — outputting decision-grade analytics to Tableau.
 
+### Dashboard Preview
+
+![CostIQ Dashboard — Cost Sensitivity & Unit Cost Breakdown](assets/dashboard_top.png)
+![CostIQ Dashboard — Margin Erosion & Price Adjustment](assets/dashboard_bottom.png)
+
+> **[View live on Tableau Public →](https://public.tableau.com/app/profile/selvanagendran.rathinam/viz/CostIQTier-1AutomotiveCostEngineeringMarginIntelligenceDashboard/Dashboard1)**
+
 ---
 
 ## Project Overview
@@ -223,6 +230,12 @@ costiq-door-harness/
 - Engineered a scenario simulator applying ±20% volatility to copper, labor, and purchased components against a 36-month LME copper index; outputs persisted to a versioned results table (`scenario_id`, `as_of_month`, `run_timestamp`) for full traceability and audit.
 
 - Implemented margin-floor governance (15% configurable threshold) to programmatically flag at-risk SKUs and compute required price adjustments; decision outputs published to Tableau via a cost waterfall and SKU × scenario margin heatmap.
+
+---
+
+## Related Project
+
+**[DemandIQ — Forecast Accuracy & Supply Risk Engine](https://github.com/<your-username>/demandiq-door-harness)** extends CostIQ's database with rolling forecast revision analytics across 36 months, computing MAPE, directional bias, and forecast churn by SKU — translating demand volatility into procurement and margin exposure.
 
 ---
 
