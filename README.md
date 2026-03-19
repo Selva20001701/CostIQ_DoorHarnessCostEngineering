@@ -1,4 +1,4 @@
-# CostIQ — Automotive Cost Engineering & Margin Intelligence Dashboard
+# CostIQ — Automotive Wiring Harness Cost & Margin Intelligence Dashboard
 
 A modular cost engineering simulation system built for a Tier-1 automotive door harness program. CostIQ computes BOM-level unit cost across 3 SKUs and 34 BOM lines, runs scenario simulations against commodity and labor volatility, and enforces margin-floor governance — outputting decision-grade analytics to Tableau.
 
